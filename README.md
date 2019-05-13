@@ -5,9 +5,11 @@ Keanu Yokoyama 2019
 
 This patch is intended to be used to test udp connection. 
 
+If you have max, use the ".mxf" file or the ".maxpat" in conjucion with the shell tool. If you do not have max, download the application in the ".zip" file.
+
 Requirements:
  1.git lfs is required to download the application (UDP_Drum_Machine.zip)
- 2.the "shell" tool can be found here https://github.com/jeremybernstein/shell/releases/tag/1.0b2
+ 2.the "shell" tool is needed to run the max patch, and can be found here https://github.com/jeremybernstein/shell/releases/tag/1.0b2
 
 Instructions:
 
